@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Book Store" tests="12" time="8.278">
+  <testsuite name="status" id="bee871d1-ad9c-4257-8e4b-ba57949e74d4" timestamp="2024-04-18T17:01:12.139Z" tests="0" failures="0" errors="0" time="1.404"/>
+  <testsuite name="List of Books" id="aa8d1800-54c5-47b7-8e60-55a95a506c80" timestamp="2024-04-18T17:01:12.139Z" tests="0" failures="0" errors="0" time="1.418"/>
+  <testsuite name="singleBook" id="73b11b20-f7a7-4fa0-972f-bb8bfca909fb" timestamp="2024-04-18T17:01:12.139Z" tests="0" failures="0" errors="0" time="0.774"/>
+  <testsuite name="New Request" id="9be2d21f-7df9-4b3f-ac19-ce4177b0d806" timestamp="2024-04-18T17:01:12.139Z" tests="0" failures="0" errors="0" time="1.320"/>
+  <testsuite name="get all orders" id="2bc9a00b-9c37-4972-9312-bf36f370ff58" timestamp="2024-04-18T17:01:12.139Z" tests="0" failures="0" errors="0" time="1.241"/>
+  <testsuite name="get an order" id="73fd910c-60f3-438f-8e7f-ce83b5a93fcc" timestamp="2024-04-18T17:01:12.139Z" tests="0" failures="0" errors="0" time="0.361"/>
+  <testsuite name="update an order" id="bbdae639-c09b-4c16-a94c-6bcd4e77fcf4" timestamp="2024-04-18T17:01:12.139Z" tests="0" failures="0" errors="0" time="0.317"/>
+  <testsuite name="New Request" id="05977468-a462-4a6d-802d-097f621dd3b7" timestamp="2024-04-18T17:01:12.139Z" tests="0" failures="0" errors="0" time="0.312"/>
+  <testsuite name="New Request" id="308f1142-f9cb-49fb-8645-82cf4d1b2586" timestamp="2024-04-18T17:01:12.139Z" tests="0" failures="0" errors="0" time="0.305"/>
+  <testsuite name="New Request" id="0db4896f-a419-450b-ae78-09c35e94430d" timestamp="2024-04-18T17:01:12.139Z" tests="0" failures="0" errors="0" time="0.256"/>
+  <testsuite name="New Request" id="e146802d-cd9a-4d7d-a6d4-8f088ca4ef93" timestamp="2024-04-18T17:01:12.139Z" tests="0" failures="0" errors="0" time="0.294"/>
+  <testsuite name="New Request" id="2d6455e0-87e6-465b-b208-735c4584cff8" timestamp="2024-04-18T17:01:12.139Z" tests="0" failures="0" errors="0" time="0.276"/>
+</testsuites>
